@@ -3,7 +3,8 @@
 > Useful resources for creating Progressive Web Apps
 
 ## Sponsors 
-[![MagicBell Banner](https://github.com/hemanth/awesome-pwa/assets/36479718/5118cbf4-b1b6-49b9-91b3-d10b8275708e)](https://www.magicbell.com/?ref=awesome)
+### MagicBell
+[![MagicBell Banner](https://github.com/hemanth/awesome-pwa/assets/36479718/59587b71-7cfe-494b-9406-a70b7e203572)](https://www.magicbell.com/?ref=awesome)
 
 ## What is a Progressive Web App
 
